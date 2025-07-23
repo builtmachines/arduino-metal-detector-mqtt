@@ -18,8 +18,8 @@ Buzzer
 
 **Wiring as per the code**
 Wiring / Pin Connections
-Pin	Function	Notes
-D1 (GPIO5)	Buzzer	Output buzzer pin
+**Pin	Function	Notes**
+D1 (GPIO5)	Buzzer	Output buzzer pin    
 D2 (GPIO4)	Proximity Sensor	Input sensor pin
 D6 (GPIO12)	I2C SDA (RTC)	RTC data line
 D7 (GPIO13)	I2C SCL (RTC)	RTC clock line
